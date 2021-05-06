@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tech-Head-Hunter
+- 👀 I’m interested in connecting with Tech savvy candidates
+- 🌱 I work with Fintech, Artificial Intelligence and Data Science domain
+- 📫 You can DM if you are looking for some challenging projects with the state of the art Tech companies in Bangalore
